@@ -1,0 +1,14 @@
+.DS_Store
+*.dri
+*.xln
+export
+*.b#?
+*.s#?
+*.tmp
+*.bak
+*~.*
+AutoSave_*
+*.gcode
+*.s3g
+x*.png
+*.stl
