@@ -6668,7 +6668,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <parts>
 <part name="FRAME1" library="SparkFun" deviceset="FRAME-LETTER" device=""/>
 <part name="LED1" library="SparkFun" deviceset="LED" device="5MM"/>
-<part name="R3" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="150"/>
+<part name="R3" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="330"/>
 <part name="U2" library="SparkFun" deviceset="RELAY-SOLIDSTATE" device="PTH" value="S108T02"/>
 <part name="LOAD1" library="SparkFun" deviceset="M02" device="5MM" value="Load"/>
 <part name="U1" library="SparkFun-DigitalIC" deviceset="ATTINY45" device="TINY85-20-DIP" value="TINY85">
@@ -6679,12 +6679,12 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="GND4" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND2" library="SparkFun" deviceset="GND" device=""/>
 <part name="LED2" library="SparkFun" deviceset="LED" device="5MM"/>
-<part name="R8" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="150"/>
+<part name="R8" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="330"/>
 <part name="U3" library="SparkFun" deviceset="RELAY-SOLIDSTATE" device="PTH" value="S108T02"/>
 <part name="LOAD2" library="SparkFun" deviceset="M02" device="5MM" value="Load"/>
 <part name="LED3" library="SparkFun" deviceset="LED" device="5MM"/>
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
-<part name="R12" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="150"/>
+<part name="R12" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="330"/>
 <part name="U4" library="SparkFun" deviceset="RELAY-SOLIDSTATE" device="PTH" value="S108T02"/>
 <part name="LOAD3" library="SparkFun" deviceset="M02" device="5MM" value="Load"/>
 <part name="JP5" library="SparkFun-Connectors" deviceset="M03X2" device="" value="ICSP"/>
@@ -6695,7 +6695,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$2" library="SparkFun" deviceset="5V" device=""/>
 <part name="PWR" library="SparkFun" deviceset="LED" device="3MM"/>
-<part name="R13" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="330"/>
+<part name="R13" library="SparkFun" deviceset="RESISTOR" device="AXIAL-0.3" value="10K"/>
 <part name="U$1" library="SparkFun" deviceset="5V" device=""/>
 <part name="GND8" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
